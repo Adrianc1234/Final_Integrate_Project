@@ -106,3 +106,6 @@ The 6 members of the team:
 - Deploy a functional dashboard showing tweets in real time and the output of the predictive and generative model.
 
 Most of the criteria for achieving our data mining goals must be completely fulfilled or at least nearly fulfilled with a difference not greater than 0.1
+
+# Activites for this project:
+<img src = "https://snipboard.io/Ngo3zj.jpg" alt="Team Members" width="500" height="370">
