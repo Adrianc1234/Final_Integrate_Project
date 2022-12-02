@@ -7,7 +7,8 @@
 - Adrián Roberto Carmona Rodriguez
 - Alejandro Rodriguez Trillo
 - Emmanuel Alejandro Hurtado Alejandre
-- Jason Maximiliano Salazar Bustillos
+- Jason Maximiliano 
+- Salazar Bustillos
 
 # Project Understanding
 ## Determine Objectives 
