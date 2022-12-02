@@ -111,5 +111,5 @@ Most of the criteria for achieving our data mining goals must be completely fulf
 <img src = "https://snipboard.io/Ngo3zj.jpg" alt="Team Members" width="750" height="370">
 
 # Next steps
-<img width="1233" alt="image" src="https://user-images.githubusercontent.com/46505958/205354208-e8a9a3f9-14b6-4e43-a0b7-7e88889fe6f4.png" width="800" height="270">
+<img width="1233" alt="image" src="https://user-images.githubusercontent.com/46505958/205354208-e8a9a3f9-14b6-4e43-a0b7-7e88889fe6f4.png" width="800" height="250">
 
