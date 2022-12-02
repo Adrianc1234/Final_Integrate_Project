@@ -17,7 +17,7 @@ Files:
 ----
 
 # Generative Neural Network (RNN & LSTM)
-[RNN](https://github.com/Adrianc1234/Final_Integrate_Project/tree/main/NLP_notebooks/Classification%20Algorithms)
+[Generative Folder](https://github.com/Adrianc1234/Final_Integrate_Project/tree/main/NLP_notebooks/Generative%20Text)
 
 Files:
 - prediction_classification.py : Script used in deployment to request a prediction to the model reading .h5 model
