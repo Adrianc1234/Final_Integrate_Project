@@ -29,4 +29,4 @@ Files:
 
 
 ## RNN Recurence Neural Network 
-<img src="https://snipboard.io/t1xIhq.jpg" alt="Model layers" width="500" height="500">
+<img src="https://snipboard.io/t1xIhq.jpg" alt="Model layers" width="400" height="380">
