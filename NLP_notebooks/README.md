@@ -11,4 +11,4 @@ Files:
 
 ## BERT Classification Neural Network 
 <img src="https://snipboard.io/Ng1xIZ.jpg" alt="Girl in a jacket" width="500" height="500">
-
+<img src="https://snipboard.io/dq51iu.jpg" alt="Girl in a jacket" width="1000" height="150">
