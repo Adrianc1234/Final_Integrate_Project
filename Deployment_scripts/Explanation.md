@@ -1,1 +1,1 @@
-
+These are the scripts to put in functioning the NLP system. Just run the script call subscriber.py
