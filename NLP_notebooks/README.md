@@ -5,7 +5,7 @@ Files:
 - prediction_classification.py : Script used in deployment to request a prediction to the model reading .h5 model
 - trans_senty.py : Script used in deployment to request a prediction to a transformer for getting a sentiment prediction (POSITIVE/NEGATIVE)
 - [Model.H5 (Overfitting)](https://drive.google.com/file/d/1HRmDCHWGGISm-Ad_481R3VC_xXBn7jrH/view?usp=sharing)
-- BERT (Not implemented in the service): BERTH classification notebook is inside of the folder and you can run it using this data:[data](https://drive.google.com/file/d/1yDyEMYoqwp4MksNDYSOceUP8lv3WK4NR/view?usp=sharing)
+- BERT (Not implemented in the service): BERTH classification notebook is inside of the folder and you can run it using this data: [data](https://drive.google.com/file/d/1yDyEMYoqwp4MksNDYSOceUP8lv3WK4NR/view?usp=sharing)
 ## LSTM
 <img src="https://snipboard.io/vwcCst.jpg" alt="Girl in a jacket" width="1000" height="150">
 
