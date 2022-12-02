@@ -25,9 +25,8 @@ Files:
 - [Model.H5 (Overfitting)](https://drive.google.com/file/d/1HRmDCHWGGISm-Ad_481R3VC_xXBn7jrH/view?usp=sharing)
 - BERT (Not implemented in the service): BERTH classification notebook is inside of the folder and you can run it using this data: [data](https://drive.google.com/file/d/1yDyEMYoqwp4MksNDYSOceUP8lv3WK4NR/view?usp=sharing)
 ## LSTM text generator
-<img src="https://snipboard.io/a3ldOr.jpg" alt="Girl in a jacket" width="1000" height="150">
+<img src="https://snipboard.io/a3ldOr.jpg" alt="LSTM Generator" width="1000" height="150">
 
 
-## BERT Classification Neural Network 
-<img src="https://snipboard.io/Ng1xIZ.jpg" alt="Girl in a jacket" width="500" height="500">
-<img src="https://snipboard.io/dq51iu.jpg" alt="Girl in a jacket" width="1000" height="150">
+## RNN Recurence Neural Network 
+<img src="https://snipboard.io/t1xIhq.jpg" alt="Model layers" width="500" height="500">
